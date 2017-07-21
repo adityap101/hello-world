@@ -1,2 +1,3 @@
 # hello-world
-simple repo
+simple repository
+commiting changes
